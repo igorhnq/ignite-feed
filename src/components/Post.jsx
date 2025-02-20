@@ -29,7 +29,9 @@ export function Post({ author, publishedAt, content }) {
     }
     
     function handleNewCommentChange(event) {
+        event.target.setCustomValidity('')
         setNewCommentText(event.target.value)
+        console.log(newCommentText)
     }
 
     function handleNewCommentInvalid(event) {
