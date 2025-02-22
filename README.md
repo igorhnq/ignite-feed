@@ -38,4 +38,4 @@ npm run dev
 
 ## 📸 Imagens do Projeto
 
-![Exemplo de Post](src\assets\screenshot.png)
+![Exemplo de Post](src/assets/screenshot.png)
