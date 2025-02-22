@@ -15,27 +15,27 @@ Projeto desenvolvido durante a formação React da Rocketseat. O Ignite Feed é 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/igorhnq/ignite-rocketseat
+git clone https://github.com/igorhnq/ignite-rocketseat
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd ignite-rocketseat
+cd ignite-rocketseat
 ```
 
 Instale as dependências
 
 ```bash
-  npm install
+npm install
 ```
 
 Inicie o servidor
 
 ```bash
-  npm run dev
+npm run dev
 ```
 
 ## 📸 Imagens do Projeto
 
-![Exemplo de Post](assets/screenshot.png)
+![Exemplo de Post](src\assets\screenshot.png)
