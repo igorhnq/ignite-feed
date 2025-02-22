@@ -8,29 +8,15 @@ import './global.css'
 
 const posts: PostType[] = [
     {
-        id: 1,
-        author: {
-            avatarUrl: 'https://github.com/igorhnq.png',
-            name: 'Igor Henrique',
-            role: 'Web Developer'
-        },
-        content: [
-            { type: 'paragraph', content: 'Fala galeraa,'},
-            { type: 'paragraph', content: 'Acabei de subir mais um porjeto no meu portifa. É um projeto que eu fiz no NLW Return, evento da Rocketseat,'},
-            { type: 'link', content: 'jane.design/doctorcare'}
-        ],
-        publishedAt: new Date('2025-05-03 20:00:00')
-    },
-    {
         id: 2,
         author: {
             avatarUrl: 'https://github.com/ericopieri.png',
             name: 'Erico Pieri',
-            role: 'Web Developer'
+            role: 'Software Engineer Student'
         },
         content: [
-            { type: 'paragraph', content: 'Fala galeraa,'},
-            { type: 'paragraph', content: 'Acabei de subir mais um porjeto no meu portifa. É um projeto que eu fiz no NLW Return, evento da Rocketseat,'},
+            { type: 'paragraph', content: 'Fala galeraa'},
+            { type: 'paragraph', content: 'Acabei de subir mais um porjeto no meu portifa. É um projeto que eu fiz no NLW Return, evento da Rocketseat'},
             { type: 'link', content: 'jane.design/doctorcare'}
         ],
         publishedAt: new Date('2025-05-03 20:00:00')
