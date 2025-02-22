@@ -1,8 +1,41 @@
-# React + Vite
+# 🚀 Ignite Feed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido durante a formação React da Rocketseat. O Ignite Feed é uma aplicação simples de feed de posts, onde os usuários podem interagir com o conteúdo deixando comentários, curtindo as publicações e visualizando as informações dos posts de forma dinâmica.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- TypeScript
+- CSS Modules
+- date-fns (para formatação de datas)
+- Phosphor Icons (para ícones)
+
+## 🏃‍♂️ Como Rodar o Projeto
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/igorhnq/ignite-rocketseat
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd ignite-rocketseat
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
+
+## 📸 Imagens do Projeto
+
+![Exemplo de Post](assets/screenshot.png)
