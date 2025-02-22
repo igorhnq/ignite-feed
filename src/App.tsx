@@ -19,7 +19,7 @@ const posts: PostType[] = [
             { type: 'paragraph', content: 'Acabei de subir mais um porjeto no meu portifa. É um projeto que eu fiz no NLW Return, evento da Rocketseat'},
             { type: 'link', content: 'jane.design/doctorcare'}
         ],
-        publishedAt: new Date('2025-05-03 20:00:00')
+        publishedAt: new Date('2025-02-01 20:00:00')
     },
 ]
 
