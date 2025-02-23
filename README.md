@@ -21,7 +21,7 @@ git clone https://github.com/igorhnq/ignite-feed
 Entre no diretório do projeto
 
 ```bash
-cd ignite-rocketseat
+cd ignite-feed
 ```
 
 Instale as dependências
